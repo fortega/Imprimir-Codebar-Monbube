@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Imprimir_Codebar_Monbube.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="minusWidth" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="gapWidth" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="fCodebarFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Verdana</Value>
+    </Setting>
+    <Setting Name="fCodebarSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="ImpresionSep" Type="System.Char" Scope="User">
+      <Value Profile="(Default)">,</Value>
+    </Setting>
+    <Setting Name="fDescFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Verdana</Value>
+    </Setting>
+    <Setting Name="fDescSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="CodebarFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0000000</Value>
+    </Setting>
+    <Setting Name="ExportBsaleSep" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,</Value>
+    </Setting>
+    <Setting Name="BsaleSucursal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Casa Matriz</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
